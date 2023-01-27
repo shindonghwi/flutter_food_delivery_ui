@@ -1,16 +1,5 @@
 # food_delivery_ui
 
-A new Flutter project.
+UI 공부 - 음식 배달앱 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/45490440/215062068-4eec5fd1-ed08-4d36-bec7-fd1f9fd2c217.gif)
